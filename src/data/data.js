@@ -1,11 +1,11 @@
 // CUSTOMIZE THIS FILE TO ADD YOUR OWN DATA
 
 const data = {
-    name: "John Doe",
-    bio: "Undergraduate Architectural Student at University of Calgary passionate about building tools to make homes more affordable.",
+    name: "Aruoriwo Rora-Ogor",
+    bio: "Bachelor of Design in City Innovation Student at University of Calgary passionate about the intersection between Architecture and Psychology.",
     contact: {
-        email: "john.doe@gmail.com",
-        phone: "+12345678910",
+        email: "aruoriwo.roraogor@ucalgary.ca",
+        phone: "+3682990546",
         linkedin: "https://www.linkedin.com/",
         github: "https://www.github.com/",
     }
