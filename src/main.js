@@ -34,7 +34,7 @@ document.querySelector("#app").innerHTML = `
       <div id="project-row">
       Project 1
         <div class="three-model">
-          <div id="model1"></div>
+          <img src="./houseDrawings/house1.jpg" id="model1" alt="Model 1 Image" />
         </div>
         <div id="images-description">
           <div id="images">
@@ -102,6 +102,6 @@ document.querySelector("#app").innerHTML = `
 `;
 
 // Create three.js scenes for each
-createThreeScene("#model1", "/3DModels/project1/cube.obj");
+//createThreeScene("#model1", "/3DModels/project1/cube.obj");
 //createThreeScene("#model2", "/3DModels/project2/tree.obj");
 //createThreeScene("#model3", "/3DModels/project3/cottage.obj");
