@@ -7,8 +7,10 @@ const cubes = [
   "./cubeDrawings/cube2.png",
   "./cubeDrawings/cube3.png",
   "./cubeDrawings/cube4.png",
-  "./cubeDrawings/cube5.png",
-  "./cubeDrawings/cube6.png",
+];
+
+const cubes = [
+ "./cubeDrawings/cube5.png",
 ];
 
 const trees = [

@@ -121,12 +121,17 @@ img {
 }
 
 #images-row {
-  /* Row layout for images */
-  display: flex;
-  align-items: center;
-  align-items: center;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 images per row */
+  grid-template-rows: auto auto; /* 2 rows */
+  gap: 10px; /* Space between images */
   position: relative;
 }
+#images-row img {
+  width: 100%; /* Make images fit their grid cells */
+  height: auto; /* Maintain aspect ratio */
+}
+
 
 #description {
   /* Center description content */
