@@ -7,10 +7,8 @@ const cubes = [
   "./cubeDrawings/cube2.png",
   "./cubeDrawings/cube3.png",
   "./cubeDrawings/cube4.png",
-];
-
-const cubes = [
- "./cubeDrawings/cube5.png",
+  "./cubeDrawings/cube5.png",
+  "./cubeDrawings/cube6.png",
 ];
 
 const trees = [
@@ -55,8 +53,18 @@ document.querySelector("#app").innerHTML = `
              <a href="https://favour-roraogor.vercel.app/cubeDrawings/cube4.png" target="_blank">
                <img src="./cubeDrawings/cube4.png" alt="cube4" />
              </a>
+              <a href="https://favour-roraogor.vercel.app/cubeDrawings/cube5.png" target="_blank">
+               <img src="./cubeDrawings/cube5.png" alt="cube5" />
+             </a>
+              <a href="https://favour-roraogor.vercel.app/cubeDrawings/cube6.png" target="_blank">
+               <img src="./cubeDrawings/cube6.png" alt="cube6" />
+             </a>
           </div>
-          <h4 id="description">A cubic 3D model is a geometric representation of a cube, consisting of six equal square faces joined at right angles. Each edge of the cube is of equal length, forming a symmetrical, rigid structure. The model can be textured, colored, or transparent, and it may include variations such as beveled edges or hollow interiors, depending on its intended purpose in design, animation, or engineering.</h4>
+          <h4 id="description">Escape from Gaia reflects a world consumed by climate change and a collective fear of the apocalypse. Earth, personified as Gaia, unleashes fiery wrath in response to humanity’s exploitation. In an act of desperation, the inhabitant tears open a portal to escape this crumbling reality, finding refuge in a cave that offers solace and defies gravity itself.
+
+The cave, adorned with glowing crystals, feels solid and permanent but exists only in the inhabitant’s imagination. Subtle signs of life—a chair and a book—show attempts to create a home. Beyond the cave, spaceships hint at other life forms charting their own paths in the galaxy.
+
+Yet true escape proves impossible. Cracks appear in the cave walls, and burning hands breach the sanctuary, pulling the inhabitant back to Earth. In the end, they must confront the unavoidable reality of a world on fire.</h4>
         </div>
       </div>
 

@@ -106,8 +106,8 @@ h1 {
 
 img {
   /* Image dimensions and margin */
-  height: 120px;
-  width: 120px;
+  height: 75px;
+  width: 75px;
   margin: 0.5em;
 }
 
@@ -116,28 +116,23 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 8em;
+  height: 6em;
   margin-bottom: 2em;
 }
 
 #images-row {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr); /* 3 images per row */
-  grid-template-rows: auto auto; /* 2 rows */
-  gap: 10px; /* Space between images */
+  /* Row layout for images */
+  display: flex;
+  align-items: center;
+  align-items: center;
   position: relative;
 }
-#images-row img {
-  width: 100%; /* Make images fit their grid cells */
-  height: auto; /* Maintain aspect ratio */
-}
-
 
 #description {
   /* Center description content */
   display: flex;
   align-items: center;
-  height: 4em;
+  height: 7em;
   width: 35em;
   font-weight: 100;
   margin-left: 2em;
