@@ -34,21 +34,21 @@ document.querySelector("#app").innerHTML = `
       <div id="project-row">
       Cadavre Exquis
         <div class="three-model">
-          <img src="./cadavreExquis/front-image-cadavre.png" id="model1" alt="Model 1 Image" />
+          <img src="./cubeDrawings/cube0.png" id="model1" alt="Model 1 Image" />
         </div>
         <div id="images-description">
           <div id="images">
              <a href="https://example.com/page1" target="_blank">
-               <img src="./cubeDrawings/cube1.webp" alt="cube1" />
+               <img src="./cubeDrawings/cube1.png" alt="cube1" />
              </a>
              <a href="https://example.com/page2" target="_blank">
-              <img src="./cubeDrawings/cube2.webp" alt="cube2" />
+              <img src="./cubeDrawings/cube2.png" alt="cube2" />
              </a>
              <a href="https://example.com/page3" target="_blank">
-               <img src="./cubeDrawings/cube3.webp" alt="cube3" />
+               <img src="./cubeDrawings/cube3.png" alt="cube3" />
              </a>
              <a href="https://example.com/page4" target="_blank">
-               <img src="./cubeDrawings/cube4.webp" alt="cube4" />
+               <img src="./cubeDrawings/cube4.png" alt="cube4" />
              </a>
           </div>
           <h4 id="description">A cubic 3D model is a geometric representation of a cube, consisting of six equal square faces joined at right angles. Each edge of the cube is of equal length, forming a symmetrical, rigid structure. The model can be textured, colored, or transparent, and it may include variations such as beveled edges or hollow interiors, depending on its intended purpose in design, animation, or engineering.</h4>
