@@ -7,6 +7,8 @@ const cubes = [
   "./cubeDrawings/cube2.png",
   "./cubeDrawings/cube3.png",
   "./cubeDrawings/cube4.png",
+  "./cubeDrawings/cube5.png",
+  "./cubeDrawings/cube6.png",
 ];
 
 const trees = [
@@ -34,20 +36,21 @@ document.querySelector("#app").innerHTML = `
       <div id="project-row">
       Cadavre Exquis
         <div class="three-model">
+        <a href="https://favour-roraogor.vercel.app/cubeDrawings/cube0.png" target="_blank">
           <img src="./cubeDrawings/cube0.png" id="model1" alt="Model 1 Image" />
         </div>
         <div id="images-description">
           <div id="images">
-             <a href="https://example.com/page1" target="_blank">
+             <a href="https://favour-roraogor.vercel.app/cubeDrawings/cube1.png" target="_blank">
                <img src="./cubeDrawings/cube1.png" alt="cube1" />
              </a>
-             <a href="https://example.com/page2" target="_blank">
+             <a href="https://favour-roraogor.vercel.app/cubeDrawings/cube2.png" target="_blank">
               <img src="./cubeDrawings/cube2.png" alt="cube2" />
              </a>
-             <a href="https://example.com/page3" target="_blank">
+             <a href="https://favour-roraogor.vercel.app/cubeDrawings/cube3.png" target="_blank">
                <img src="./cubeDrawings/cube3.png" alt="cube3" />
              </a>
-             <a href="https://example.com/page4" target="_blank">
+             <a href="https://favour-roraogor.vercel.app/cubeDrawings/cube4.png" target="_blank">
                <img src="./cubeDrawings/cube4.png" alt="cube4" />
              </a>
           </div>
