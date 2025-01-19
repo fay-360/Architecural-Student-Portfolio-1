@@ -38,11 +38,18 @@ document.querySelector("#app").innerHTML = `
         </div>
         <div id="images-description">
           <div id="images">
-            ${cubes
-              .map(
-                (cube, index) => `<img src="${cube}" alt="cube${index + 1}" />`
-              )
-              .join("")}
+             <a href="https://example.com/page1" target="_blank">
+               <img src="./cubeDrawings/cube1.webp" alt="cube1" />
+             </a>
+             <a href="https://example.com/page2" target="_blank">
+              <img src="./cubeDrawings/cube2.webp" alt="cube2" />
+             </a>
+             <a href="https://example.com/page3" target="_blank">
+               <img src="./cubeDrawings/cube3.webp" alt="cube3" />
+             </a>
+             <a href="https://example.com/page4" target="_blank">
+               <img src="./cubeDrawings/cube4.webp" alt="cube4" />
+             </a>
           </div>
           <h4 id="description">A cubic 3D model is a geometric representation of a cube, consisting of six equal square faces joined at right angles. Each edge of the cube is of equal length, forming a symmetrical, rigid structure. The model can be textured, colored, or transparent, and it may include variations such as beveled edges or hollow interiors, depending on its intended purpose in design, animation, or engineering.</h4>
         </div>
