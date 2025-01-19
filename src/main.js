@@ -3,10 +3,10 @@ import data from "./data/data";
 import { createThreeScene } from "./threeScene";
 
 const cubes = [
-  "./cubeDrawings/cube1.webp",
-  "./cubeDrawings/cube2.webp",
-  "./cubeDrawings/cube3.webp",
-  "./cubeDrawings/cube4.webp",
+  "./cubeDrawings/cube1.png",
+  "./cubeDrawings/cube2.png",
+  "./cubeDrawings/cube3.png",
+  "./cubeDrawings/cube4.png",
 ];
 
 const trees = [
