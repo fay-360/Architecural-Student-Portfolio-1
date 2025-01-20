@@ -34,7 +34,7 @@ document.querySelector("#app").innerHTML = `
 
     <section id="projects">
       <div id="project-row">
-      Cadavre Exquis : Escape From Gaia
+     1.0 Cadavre Exquis 
         <div class="three-model">
         <a href="https://favour-roraogor.vercel.app/cubeDrawings/cube0.png" target="_blank">
           <img src="./cubeDrawings/cube0.png" id="model1" alt="Model 1 Image" />
