@@ -12,10 +12,11 @@ const cubes = [
 ];
 
 const trees = [
-  "./treeDrawings/tree1.jpg",
-  "./treeDrawings/tree2.jpg",
-  "./treeDrawings/tree3.jpg",
-  "./treeDrawings/tree4.jpg",
+  "./treeDrawings/tree1.png",
+  "./treeDrawings/tree2.png",
+  "./treeDrawings/tree3.png",
+  "./treeDrawings/tree4.png",
+  "./treeDrawings/tree5.png",
 ];
 
 const houses = [
@@ -69,9 +70,9 @@ Yet true escape proves impossible. Cracks appear in the cave walls, and burning 
       </div>
 
       <section id="projects">
-     2.0 Interop(erability)
+     
      <div id="project-row">
-      Model 2
+      2.0 Interop(erability)
         <div class="three-model">
           <div id="model2"></div>
         </div>
@@ -84,10 +85,9 @@ Yet true escape proves impossible. Cracks appear in the cave walls, and burning 
               )
               .join("")}
           </div>
-          <h4 id="description">A 3D tree model is a geometric representation of a tree, featuring a trunk, branches, and foliage. The trunk is typically cylindrical, with textured bark, while the branches extend outward to support leaves or a canopy. It may include roots or flowers for added detail.</h4>
+          <h4 id="description">Over two weeks, I explored how digital objects change when transferred between 3D modeling platforms, specifically from Blender to Rhino. This investigation emphasized the importance of interoperability—studying how data, geometry, and properties remain intact or change during format conversions. I found that even small differences in import/export settings or file formats can subtly alter geometry, affecting mesh topology and surface smoothness. Choosing the right format and understanding software-specific conversion algorithms is crucial for design integrity. The major focus of my study was to compare mesh and NURBS modeling, which are two distinct approaches to representing geometry in 3D space. Overall, This research reinforced the importance of careful file management and conversion choices. Understanding how geometry changes across platforms will help me make more intentional design decisions, whether working with urban spaces or digital forms.</h4>
         </div>
       </div>
-      */ ""}
 
        ${/* Model 3 commented out
       <div id="project-row">
@@ -124,5 +124,5 @@ Yet true escape proves impossible. Cracks appear in the cave walls, and burning 
 
 // Create three.js scenes for each
 //createThreeScene("#model1", "/3DModels/project1/cube.obj");
-//createThreeScene("#model2", "/3DModels/project2/tree.obj");
+createThreeScene("#model2", "/3DModels/project2/tree.obj");
 //createThreeScene("#model3", "/3DModels/project3/cottage.obj");
