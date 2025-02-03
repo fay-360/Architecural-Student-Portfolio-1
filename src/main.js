@@ -78,12 +78,21 @@ Yet true escape proves impossible. Cracks appear in the cave walls, and burning 
         </div>
         <div id="images-description">
           <div id="images">
-            ${trees
-              .map(
-                (trees, index) =>
-                  `<img src="${trees}" alt="tree${index + 1}" />`
-              )
-              .join("")}
+             <a href="https://favour-roraogor.vercel.app/treeDrawings/tree1.png" target="_blank">
+               <img src="./treeDrawings/tree1.png" alt="tree1" />
+             </a>
+             <a href="https://favour-roraogor.vercel.app/treeDrawings/tree2.png" target="_blank">
+              <img src="./treeDrawings/tree2.png" alt="tree2" />
+             </a>
+             <a href="https://favour-roraogor.vercel.app/treeDrawings/tree3.png" target="_blank">
+               <img src="./treeDrawings/tree3.png" alt="tree3" />
+             </a>
+             <a href="https://favour-roraogor.vercel.app/treeDrawings/tree4.png" target="_blank">
+               <img src="./treeDrawings/tree4.png" alt="tree4" />
+             </a>
+              <a href="https://favour-roraogor.vercel.app/treeDrawings/tree5.png" target="_blank">
+               <img src="./treeDrawings/tree5.png" alt="tree5" />
+             </a>
           </div>
           <h4 id="description">Over two weeks, I explored how digital objects change when transferred between 3D modeling platforms, specifically from Blender to Rhino. This investigation emphasized the importance of interoperability—studying how data, geometry, and properties remain intact or change during format conversions. I found that even small differences in import/export settings or file formats can subtly alter geometry, affecting mesh topology and surface smoothness. Choosing the right format and understanding software-specific conversion algorithms is crucial for design integrity. The major focus of my study was to compare mesh and NURBS modeling, which are two distinct approaches to representing geometry in 3D space. Overall, This research reinforced the importance of careful file management and conversion choices. Understanding how geometry changes across platforms will help me make more intentional design decisions, whether working with urban spaces or digital forms.</h4>
         </div>
