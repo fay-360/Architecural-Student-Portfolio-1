@@ -68,8 +68,9 @@ Yet true escape proves impossible. Cracks appear in the cave walls, and burning 
         </div>
       </div>
 
-      ${/* Model 2 commented out
-      <div id="project-row">
+      <section id="projects">
+     2.0 Interop(erability)
+     <div id="project-row">
       Model 2
         <div class="three-model">
           <div id="model2"></div>
