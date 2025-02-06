@@ -113,9 +113,10 @@ img {
 
 .werey {
   /* Image dimensions and margin */
-  height: 150px;
+  height: 116px;
   width: 75px;
   margin: 0.5em;
+  margin-bottom: 0em;
 }
 
 #images {

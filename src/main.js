@@ -80,22 +80,22 @@ Yet true escape proves impossible. Cracks appear in the cave walls, and burning 
         <div id="images-description">
           <div id="images">
              <a href="https://favour-roraogor.vercel.app/treeDrawings/tree1.png" target="_blank">
-               <img src="./treeDrawings/tree1.png" alt="tree1" class: werey/>
+               <img src="./treeDrawings/tree1.png" alt="tree1" class="werey" />
              </a>
              <a href="https://favour-roraogor.vercel.app/treeDrawings/tree2.png" target="_blank">
-              <img src="./treeDrawings/tree2.png" alt="tree2" />
+              <img src="./treeDrawings/tree2.png" alt="tree2"  class="werey" />
              </a>
              <a href="https://favour-roraogor.vercel.app/treeDrawings/tree3.png" target="_blank">
-               <img src="./treeDrawings/tree3.png" alt="tree3" />
+               <img src="./treeDrawings/tree3.png" alt="tree3"  class="werey"/>
              </a>
              <a href="https://favour-roraogor.vercel.app/treeDrawings/tree4.png" target="_blank">
-               <img src="./treeDrawings/tree4.png" alt="tree4" />
+               <img src="./treeDrawings/tree4.png" alt="tree4"  class="werey"/>
              </a>
               <a href="https://favour-roraogor.vercel.app/treeDrawings/tree5.png" target="_blank">
-               <img src="./treeDrawings/tree5.png" alt="tree5" />
+               <img src="./treeDrawings/tree5.png" alt="tree5"  class="werey"/>
              </a>
               <a href="https://favour-roraogor.vercel.app/treeDrawings/tree6.png" target="_blank">
-               <img src="./treeDrawings/tree6.png" alt="tree6" />
+               <img src="./treeDrawings/tree6.png" alt="tree6"  class="werey"/>
              </a>
           </div>
           <h4 id="description">Over two weeks, I explored how digital objects change when transferred between 3D modeling platforms, specifically from Blender to Rhino. This investigation emphasized the importance of interoperability—studying how data, geometry, and properties remain intact or change during format conversions. I found that even small differences in import/export settings or file formats can subtly alter geometry, affecting mesh topology and surface smoothness. Choosing the right format and understanding software-specific conversion algorithms is crucial for design integrity. The major focus of my study was to compare mesh and NURBS modeling, which are two distinct approaches to representing geometry in 3D space. Overall, This research reinforced the importance of careful file management and conversion choices. Understanding how geometry changes across platforms will help me make more intentional design decisions, whether working with urban spaces or digital forms.</h4>
