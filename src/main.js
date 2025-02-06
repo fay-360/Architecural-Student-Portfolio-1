@@ -80,7 +80,7 @@ Yet true escape proves impossible. Cracks appear in the cave walls, and burning 
         <div id="images-description">
           <div id="images">
              <a href="https://favour-roraogor.vercel.app/treeDrawings/tree1.png" target="_blank">
-               <img src="./treeDrawings/tree1.png" alt="tree1" />
+               <img src="./treeDrawings/tree1.png" alt="tree1" class: werey/>
              </a>
              <a href="https://favour-roraogor.vercel.app/treeDrawings/tree2.png" target="_blank">
               <img src="./treeDrawings/tree2.png" alt="tree2" />

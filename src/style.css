@@ -111,6 +111,13 @@ img {
   margin: 0.5em;
 }
 
+.werey {
+  /* Image dimensions and margin */
+  height: 150px;
+  width: 75px;
+  margin: 0.5em;
+}
+
 #images {
   /* Center image container */
   display: flex;
